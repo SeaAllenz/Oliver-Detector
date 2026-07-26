@@ -13,7 +13,7 @@ The model was trained for **50 training cycles (epochs)**. This provided enough 
 
 ### Model Performance
 
-![Confusion Matrix](media/images/modelmatrix.png)
+![Confusion Matrix](oliverdetector/media/images/modelmatrix.png)
 
 The selected MobileNetV2 model was chosen because it had the **lowest alpha value**, making it well suited for this simple classification task while conserving computational resources for an embedded system.
 
